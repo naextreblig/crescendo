@@ -6,7 +6,8 @@ Back-End Skills Test
 1. Clone the source code
 2. Open project on IDE (I used IntelliJ)
 3. Make sure all libraries are imported (imported HTMLUnit in my project) and maven imports
-4. Make sure that Google Cloud Vision API on your end is enabled for Google vision to work (THIS IS A MUST)
+4. Make sure that Google Cloud Vision API is properly set up on your end and is enabled for Google vision to work (THIS IS A MUST)
+  * make sure you have service key avaiable on your local and path
 5. Build Yelp Scraper Application
 6. Run Application
 

@@ -1,4 +1,4 @@
-# Crescendo Web Scraper v0.1 (CWS v0.1) 
+#Web Scraper v0.1 (WS v0.1) 
 Back-End Skills Test
 
 # Running the Application
